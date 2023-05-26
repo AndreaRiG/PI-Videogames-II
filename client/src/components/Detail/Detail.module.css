@@ -1,0 +1,48 @@
+.Fondo{
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-image: url("assassinscreed3wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.informacion {
+
+    padding: 110px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 16px;
+    margin-top: 0px; /* Ajusta el valor según tus necesidades */
+    
+  }
+
+  .img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+  }
+  .botonHome{
+    background: #6b046d;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #ffffff;
+
+  }
+
+  .texto{
+   
+        max-width: 60%; 
+        text-overflow: ellipsis; 
+  }
+
+  .titulo{
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 36px;
+    color:#27046d;
+
+  }

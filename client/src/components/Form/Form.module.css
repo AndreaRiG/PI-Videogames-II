@@ -1,0 +1,57 @@
+.campos  {
+    background-color: #e6eaf6;
+    color: #232323;
+    border: 1px solid #05294A;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 5px;
+
+    
+  }
+
+  .form{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+  }
+
+
+  .boton{
+    background: #05294A;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #ffffff;
+
+  }
+
+  .botonHome{
+    background: #6b046d;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #ffffff;
+
+  }
+
+  .titulo{
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 60px;
+    color:#27046d;
+
+
+  }
+
+  .contenido {
+    padding: 110px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 16px;
+    margin-top: 0px; /* Ajusta el valor según tus necesidades */
+  }

@@ -1,0 +1,16 @@
+.cardsTodas {
+  background-color: rgba(0, 51, 102, 0.5);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  margin: 20px auto; /* Ajusta el margen superior e inferior */
+  padding: 10px;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 280px; /* Tamaño en píxeles */
+  height: 200px; /* Tamaño en píxeles */
+  font-size: 16px;
+}

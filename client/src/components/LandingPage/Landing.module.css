@@ -1,0 +1,45 @@
+.title {
+  position: absolute;
+  width: 608px;
+  height: 491px;
+
+  font-family: "Roboto";
+  font-style: normal;
+
+  font-size: 80px;
+  padding-left: 150px;
+  text-align: left;
+  color: #2e1172;
+  padding-top: 150px;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column; /* AlineaciÃ³n vertical de los elementos internos */
+  padding-top: 30px; /* Espaciado superior */
+  background-image: url("assassinscreed3wallpaper.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.boton {
+  background: linear-gradient(
+   90deg,
+    rgba(23, 2, 65, 0.6) 35%,
+    rgb(226, 224, 225)
+  );
+  position: absolute;
+  left: 140px; 
+  top: 580px;
+  width: 896px;
+  height: 108px;
+  border-radius: 10px;
+  font-size: 60px;
+  border: none;
+  color: white;
+  font-family: "Roboto";
+  font-style: normal;
+}
